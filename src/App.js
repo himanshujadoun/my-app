@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           <h1>
-            try to publich code from vercal
+            try to publich code from vercal after update
           </h1>
         </p>
         <a
